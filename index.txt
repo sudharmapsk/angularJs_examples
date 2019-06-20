@@ -2,3 +2,4 @@ Hi this is new index file new branch
 Hi this is new index file new branch 1
 Hi this is new index file new branch 2
 Hi this is new index file new branch new commit 
+This was edited in sts
